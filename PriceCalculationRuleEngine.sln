@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PriceCalculationRuleEngine"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RuleEngine", "RuleEngine\RuleEngine.csproj", "{34CC02CE-195D-484F-A571-0782187F7BCA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XUnitTestProject1", "XUnitTestProject1\XUnitTestProject1.csproj", "{F6166FD9-06B1-46DB-B8A7-85A4C3B04834}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{34CC02CE-195D-484F-A571-0782187F7BCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{34CC02CE-195D-484F-A571-0782187F7BCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{34CC02CE-195D-484F-A571-0782187F7BCA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6166FD9-06B1-46DB-B8A7-85A4C3B04834}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6166FD9-06B1-46DB-B8A7-85A4C3B04834}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6166FD9-06B1-46DB-B8A7-85A4C3B04834}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6166FD9-06B1-46DB-B8A7-85A4C3B04834}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,4 +1,5 @@
-﻿using System;
+﻿using RuleEngine;
+using System;
 
 namespace PriceCalculationRuleEngine
 {
@@ -6,7 +7,8 @@ namespace PriceCalculationRuleEngine
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            //Main method is not necessary as of now. 
+            //But if one wants to test it through the console then that can be provisioned here.
         }
     }
 }
